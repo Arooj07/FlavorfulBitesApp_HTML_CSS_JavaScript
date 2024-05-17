@@ -14,4 +14,9 @@ This project, Flavorful Bites, is developed using HTML, CSS, and JavaScript to c
 
 Introducing the Flavorful Bites app, your convenient solution for ordering your favorite cakes online. Designed with user-friendly HTML, CSS, and JavaScript, our app offers a seamless browsing experience to explore our wide range of custom cakes and treats. With just a few taps, you can personalize your order, select delivery options, and enjoy our delicious creations delivered to your doorstep. Experience the joy of hassle-free online cake ordering with Flavorful Bites, where every bite is crafted with love.
 
+Project's Starting Visualization;
+
+![image](https://github.com/Arooj07/FlavorfulBitesApp_HTML_CSS_JavaScript/assets/100277795/77ce62e4-3943-4852-8112-69631d5b7d06)
+
+
 
