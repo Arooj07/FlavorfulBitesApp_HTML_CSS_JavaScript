@@ -16,7 +16,7 @@ Introducing the Flavorful Bites app, your convenient solution for ordering your 
 
 Project's Starting Visualization;
 
-![image](https://github.com/Arooj07/FlavorfulBitesApp_HTML_CSS_JavaScript/assets/100277795/77ce62e4-3943-4852-8112-69631d5b7d06)
+
 
 
 
